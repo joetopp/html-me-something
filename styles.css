@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #867d8e;
+    font-family:arial;
+}
+
+header,
+main,
+footer {
+    background-color: #A6A0AC;
+    padding: 1.875em 0;
+}
+
+h1 {
+    text-align:center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h2 {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#Introduction {
+    font-size: 18px;
+}
+
+.emoticon {
+    font-family:"Lucida Console";
+    color:#CE0000;
+    background-color:grey;
+}
